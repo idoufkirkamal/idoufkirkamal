@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- LinkedIn-style Banner with Profile Image -->
+<div align="center" style="position: relative; display: inline-block; width: 100%;">
+  <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" style="width: 100%; max-width: 800px; height: auto;" />
+  <div class="profile-container" style="position: absolute; bottom: -60px; left: max(80px, 10%); transform: translateX(-50%);">
+    <img class="profile-image" src="assets/images/profile.png" alt="Kamal Idoufkir" width="120" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 2px 10px rgba(0,0,0,0.1); max-width: 15vw; min-width: 80px;" />
+  </div>
+</div>
 
-<!--
-**idoufkirkamal/idoufkirkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+@media (max-width: 768px) {
+  .profile-container {
+    bottom: -40px !important;
+    left: 15% !important;
+  }
+  .profile-image {
+    width: 80px !important;
+    min-width: 60px !important;
+  }
+}
+@media (max-width: 480px) {
+  .profile-container {
+    bottom: -30px !important;
+    left: 20% !important;
+  }
+  .profile-image {
+    width: 60px !important;
+    border: 2px solid white !important;
+  }
+}
+</style>
 
-Here are some ideas to get you started:
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Introduction -->
+<h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
+<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Laravel, Tailwind CSS</h3>
+
+---
+
+## 🚀 About Me
+
+👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building efficient, scalable applications and experimenting with new web technologies.
+
+🌍 Based in **Agadir, Morocco**  
+🎓 Master’s in Software Engineering  
+📫 Reach me via: [kamalidoufkir.me](https://www.kamalidoufkir.me) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir)
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Database | Tools |
+|:-----------|:------------|:-------------|:---------|
+| React.js, Next.js, TailwindCSS, HTML5, CSS3 | Node.js, Express.js, Prisma ORM | PostgreSQL, MongoDB | Git, Docker, Kubernetes, VS Code |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idoufkirkamal&show_icons=true&theme=radical" alt="Kamal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=idoufkirkamal&theme=radical" alt="Kamal's Streak Stats" />
+</p>
+
+---
+
+## ✨ Let's Connect
+
+- 🌐 [Website](https://www.kamalidoufkir.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir)
+- 📧 [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
+- 📱 +212 708 087 165
+
