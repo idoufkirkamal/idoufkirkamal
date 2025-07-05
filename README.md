@@ -1,35 +1,7 @@
-<!-- LinkedIn-style Banner with Profile Image -->
-<div align="center" style="position: relative; display: inline-block; width: 100%;">
-  <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" style="width: 100%; max-width: 800px; height: auto;" />
-  <div class="profile-container" style="position: absolute; bottom: -60px; left: max(80px, 10%); transform: translateX(-50%);">
-    <img class="profile-image" src="assets/images/profile.png" alt="Kamal Idoufkir" width="120" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 2px 10px rgba(0,0,0,0.1); max-width: 15vw; min-width: 80px;" />
-  </div>
-</div>
-
-<style>
-@media (max-width: 768px) {
-  .profile-container {
-    bottom: -40px !important;
-    left: 15% !important;
-  }
-  .profile-image {
-    width: 80px !important;
-    min-width: 60px !important;
-  }
-}
-@media (max-width: 480px) {
-  .profile-container {
-    bottom: -30px !important;
-    left: 20% !important;
-  }
-  .profile-image {
-    width: 60px !important;
-    border: 2px solid white !important;
-  }
-}
-</style>
-
-<br><br><br>
+<!-- Banner -->
+<p align="center">
+  <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" />
+</p>
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
