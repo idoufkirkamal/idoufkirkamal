@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
-<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Laravel, Tailwind CSS</h3>
+<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel, Tailwind CSS</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 🌍 Based in **Agadir, Morocco**  
 🎓 Master’s in Software Engineering  
-📫 Reach me via: [kamalidoufkir.me](https://www.kamalidoufkir.me) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir)
+📫 Reach me via: [kamalidoufkir.me](https://www.kamalidoufkir.me) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir) | [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:-----------|:------------|:-------------|:---------|
-| React.js, Next.js, TailwindCSS, HTML5, CSS3 | Node.js, Express.js, Prisma ORM | PostgreSQL, MongoDB | Git, Docker, Kubernetes, VS Code |
+| React.js, Next.js, TailwindCSS, TypeScript | Node.js, Express.js, Spring Boot, Laravel | PostgreSQL, MongoDB | Git, Docker, Kubernetes, VS Code |
 
 ---
 
@@ -37,12 +37,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=idoufkirkamal&theme=radical" alt="Kamal's Streak Stats" />
 </p>
 
----
-
-## ✨ Let's Connect
-
-- 🌐 [Website](https://www.kamalidoufkir.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir)
-- 📧 [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
-- 📱 +212 708 087 165
 
