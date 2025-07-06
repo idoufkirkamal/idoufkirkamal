@@ -22,8 +22,9 @@
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | Database | Tools |
-|:-----------|:------------|:-------------|:---------|
-| React.js, Next.js, TailwindCSS, TypeScript | Node.js, Express.js, Spring Boot, Laravel | PostgreSQL, MongoDB | Git, Docker, Kubernetes, VS Code |
+|:--------:|:-------:|:--------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode" height="40" /> |
+
 
 ---
 
