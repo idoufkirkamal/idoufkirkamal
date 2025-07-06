@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building efficient, user-friendly, clean and easy-to-use applications and experimenting with new web technologies.
+👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building clean, efficient, user-friendly and easy-to-use applications and experimenting with new web technologies.
 
 🌍 Based in **Agadir, Morocco**  
 🎓 Master’s degree in Software Engineering  
@@ -23,7 +23,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode" height="40" /> |
 
 
 ---
