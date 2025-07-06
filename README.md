@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building efficient, scalable applications and experimenting with new web technologies.
+👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building efficient, user-friendly, clean and easy-to-use applications and experimenting with new web technologies.
 
 🌍 Based in **Agadir, Morocco**  
-🎓 Master’s in Software Engineering  
+🎓 Master’s degree in Software Engineering  
 📫 Reach me via: [kamalidoufkir.me](https://www.kamalidoufkir.me) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir) | [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
 
 ---
