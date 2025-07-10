@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
-<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel, Tailwind CSS</h3>
+<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel</h3>
 
 ---
 
