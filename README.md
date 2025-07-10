@@ -33,9 +33,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=idoufkirkamal&show_icons=true&theme=radical" alt="Kamal's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=idoufkirkamal&theme=radical" alt="Kamal's Streak Stats" />
-</p>
-
-
