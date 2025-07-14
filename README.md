@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" />
+  <a href="https://github.com/idoufkirkamal">
+    <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" />
+  </a>
 </p>
 
 <!-- Introduction -->
@@ -31,5 +33,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idoufkirkamal&show_icons=true&theme=radical" alt="Kamal's GitHub Stats" />
+  <a href="https://github.com/idoufkirkamal">
+    <img src="https://github-readme-stats.vercel.app/api?username=idoufkirkamal&show_icons=true&theme=radical" alt="Kamal's GitHub Stats" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/idoufkirkamal">
+    <img src="https://streak-stats.demolab.com/?user=idoufkirkamal&theme=radical" alt="Kamal's GitHub Streak Stats" />
+  </a>
+</p>
+
