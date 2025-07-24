@@ -7,13 +7,13 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
-<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel</h3>
+<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel | DevOps & Cloud Computing</h3>
 
 ---
 
 ## 🚀 About Me
 
-👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development. I love building clean, efficient, user-friendly and easy-to-use applications and experimenting with new web technologies.
+👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development, DevOps, and cloud Computing. I enjoy building clean, secure, user-friendly, and efficient software.
 
 🌍 Based in **Agadir, Morocco**  
 🎓 Master’s degree in Software Engineering  
@@ -25,7 +25,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,aws" height="40" /> |
 
 
 ---
