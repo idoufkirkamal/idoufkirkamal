@@ -23,9 +23,9 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Database | Tools |
+| Frontend | Backend | Database | DevOps & Cloud |
 |:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,aws" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,githubactions,aws&theme=light" height="40" /> |
 
 
 ---
