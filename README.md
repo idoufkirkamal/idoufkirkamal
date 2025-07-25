@@ -25,7 +25,7 @@
 
 | Frontend | Backend | Database | DevOps & Cloud |
 |:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,git,jenkins,,aws&theme=light" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jenkins,aws&theme=light" height="40" /> |
 
 
 ---
