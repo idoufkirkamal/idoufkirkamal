@@ -1,19 +1,21 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/idoufkirkamal">
     <img src="assets/images/banner.png" alt="Kamal Idoufkir Banner" />
   </a>
-</p>
+</p> -->
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
-<h3 align="center">💻 Software Engineer | React, Next.js, Node.js, Spring Boot, Laravel | DevOps & Cloud Computing</h3>
+<h3 align="center">Software Engineer | React, Next.js, Spring Boot, Node.js | DevOps & Cloud Computing</h3>
 
 ---
 
 ## 🚀 About Me
 
-👋 I’m **Kamal IDOUFKIR**, a passionate Software Engineer specializing in modern full-stack web development, DevOps, and cloud Computing. I enjoy building clean, secure, user-friendly, and efficient software.
+👋 I’m **Kamal**, a passionate Software Engineer specializing in modern full-stack web development, DevOps, and cloud computing. I build applications that combine clean UI design, solid backend architecture, and smooth user experience.
+
+🚀 I bring an end-to-end approach to software delivery, from design and coding to testing, deployment, and maintenance.
 
 🌍 Based in **Agadir, Morocco**  
 🎓 Master’s degree in Software Engineering  
@@ -25,7 +27,7 @@
 
 | Frontend | Backend | Database | DevOps & Cloud |
 |:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jenkins,aws&theme=light" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jenkins,aws&theme=light" height="40" /> |
 
 
 ---
