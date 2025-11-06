@@ -19,7 +19,7 @@
 
 🌍 Based in **Agadir, Morocco**  
 🎓 Master’s degree in Software Engineering  
-📫 Reach me via: [kamalidoufkir.me](https://www.kamalidoufkir.me) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir) | [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
+📫 Reach me via: [kamalidoufkir.dev](https://www.kamalidoufkir.dev) | [LinkedIn](https://www.linkedin.com/in/kamal-idoufkir) | [idoufkir.kamal@gmail.com](mailto:idoufkir.kamal@gmail.com)
 
 ---
 
