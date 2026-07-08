@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Kamal IDOUFKIR 👋</h1>
-<h3 align="center">Software Engineer | React, Next.js, Spring Boot, Node.js | DevOps & Cloud Computing</h3>
+<h3 align="center">Software Engineer | React, Next.js, Spring Boot, Node.js, DevOps & Cloud Computing</h3>
 
 ---
 
